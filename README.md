@@ -20,13 +20,16 @@ screenshots can be found here
 ![Screenshot (109)](https://user-images.githubusercontent.com/61987203/122172409-3a9da100-ce70-11eb-9b1b-3ff251a97ff6.png)
 
 this is a real time simulation of how the system works.
+
 https://user-images.githubusercontent.com/61987203/135066169-affc6faf-a229-47ea-811f-7647fba128a5.MOV
 
 This is a demo video.
 
 `ManualMode()`
+
 https://user-images.githubusercontent.com/61987203/140600005-9998f70a-1edd-4738-a472-d17a43c89c5b.mp4
 
 `AutomaticMode()`
+
 https://user-images.githubusercontent.com/61987203/140600103-f87c45d7-8a4b-4b2e-a931-fda7e8dcb077.mp4
 
